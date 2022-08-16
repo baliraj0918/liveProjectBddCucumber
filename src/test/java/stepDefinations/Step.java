@@ -108,7 +108,7 @@ public class Step extends BaseClass {
 
 	@When("user enter customer info")
 	public void user_enter_customer_info() throws Exception {
-	  addCust.setEmail("Bali1@gmail.com");
+	  addCust.setEmail("Bali11@gmail.com");
 	  addCust.setPassword("1234");
 	//  addCust.setCustomerRole("Registered");
 	  
