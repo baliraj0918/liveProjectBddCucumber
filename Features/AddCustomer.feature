@@ -1,4 +1,5 @@
 Feature: Customers
+@regression
 Scenario: Add new customer
 Given User Lunch Chrome Browser
     When User Opens URL "http://admin-demo.nopcommerce.com/login"

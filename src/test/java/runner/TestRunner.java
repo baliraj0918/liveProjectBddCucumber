@@ -8,11 +8,12 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features=".//Features//AddCustomer.feature",
+		features=".//Features/",
 		glue="stepDefinations",
 		dryRun=false,
 		monochrome = true,
-		publish = true	
+		publish = true	,
+		tags= "@sanity"
 		
 		)
 

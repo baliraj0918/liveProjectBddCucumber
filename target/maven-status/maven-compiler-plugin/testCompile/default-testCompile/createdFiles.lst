@@ -1,0 +1,7 @@
+stepDefinations\BaseClass.class
+pageObjects\LoginPage.class
+pageObjects\SearchCustomerPage.class
+stepDefinations\Step.class
+utilities\WailHelper.class
+pageObjects\AddCustomerPage.class
+runner\TestRunner.class

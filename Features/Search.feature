@@ -16,8 +16,9 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
+
 Feature: Search customer
+@smoke
 Scenario: search customer
 Given User Lunch Chrome Browser
     When User Opens URL "http://admin-demo.nopcommerce.com/login"
